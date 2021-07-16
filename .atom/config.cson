@@ -1,0 +1,11 @@
+"*":
+  core:
+    disabledPackages: [
+      "terminal-tab"
+    ]
+    telemetryConsent: "limited"
+    uriHandlerRegistration: "always"
+  editor:
+    softWrap: true
+  "exception-reporting":
+    userId: "f7b32faa-d1f4-4a62-8c07-66d67d70487d"

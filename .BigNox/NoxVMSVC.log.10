@@ -1,0 +1,93 @@
+VirtualBox COM Server 5.2.36 r135684 win.amd64 (Feb 23 2020 13:36:23) release log
+00:00:00.005000 main     Log opened 2020-10-28T13:08:02.157700800Z
+00:00:00.005000 main     Build Type: release
+00:00:00.005000 main     OS Product: Windows 7
+00:00:00.005000 main     OS Release: 6.1.7601
+00:00:00.005000 main     OS Service Pack: 1
+00:00:00.032000 main     DMI Product Name: System Product Name
+00:00:00.047000 main     DMI Product Version: System Version
+00:00:00.047000 main     Host RAM: 8128MB (7.9GB) total, 4051MB (3.9GB) available
+00:00:00.047000 main     Executable: C:\Program Files (x86)\Bignox\BigNoxVM\RT\NoxVMSVC.exe
+00:00:00.047000 main     Process ID: 9992
+00:00:00.047000 main     Package type: WINDOWS_64BITS_GENERIC (OSE)
+00:00:00.051000 main     AssertLogRel D:\VirtualBox\VirtualBox-5.2.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(842) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.051000 main     1388: create key 'TypeLib' -> 5
+00:00:00.051000 main     AssertLogRel D:\VirtualBox\VirtualBox-5.2.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(842) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.051000 main     1234: create key '{88888888-1807-4249-5ba5-ea42d66af0bf}' -> 5
+00:00:00.051000 main     AssertLogRel D:\VirtualBox\VirtualBox-5.2.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(937) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.051000 main     1234: create key '{88888888-1807-4249-5ba5-ea42d66af0bf}'(/Default='PSFactoryBuffer') -> 5
+00:00:00.051000 main     AssertLogRel D:\VirtualBox\VirtualBox-5.2.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(573) long __cdecl vbpsRegOpenInterfaceKeys(struct VBPSREGSTATE *): rc == ERROR_SUCCESS
+00:00:00.051000 main     5
+00:00:00.051000 main     AssertLogRel D:\VirtualBox\VirtualBox-5.2.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(842) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.051000 main     1148: create key 'VirtualBox.VirtualBox.1' -> 5
+00:00:00.051000 main     AssertLogRel D:\VirtualBox\VirtualBox-5.2.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(937) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.051000 main     1148: create key 'VirtualBox.VirtualBox.1'(/Default='VirtualBox Class') -> 5
+00:00:00.051000 main     AssertLogRel D:\VirtualBox\VirtualBox-5.2.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(842) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.051000 main     1148: create key 'VirtualBox.VirtualBox' -> 5
+00:00:00.051000 main     AssertLogRel D:\VirtualBox\VirtualBox-5.2.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(937) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.051000 main     1148: create key 'VirtualBox.VirtualBox'(/Default='VirtualBox Class') -> 5
+00:00:00.051000 main     AssertLogRel D:\VirtualBox\VirtualBox-5.2.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(842) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.051000 main     1234: create key '{88888888-47b9-4a1e-82b2-07ccd5323c3f}' -> 5
+00:00:00.051000 main     AssertLogRel D:\VirtualBox\VirtualBox-5.2.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(937) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.051000 main     1234: create key '{88888888-47b9-4a1e-82b2-07ccd5323c3f}'(/Default='VirtualBox Class') -> 5
+00:00:00.051000 main     AssertLogRel D:\VirtualBox\VirtualBox-5.2.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(842) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.051000 main     1148: create key 'VirtualBox.Session.1' -> 5
+00:00:00.051000 main     AssertLogRel D:\VirtualBox\VirtualBox-5.2.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(937) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.051000 main     1148: create key 'VirtualBox.Session.1'(/Default='Session Class') -> 5
+00:00:00.052000 main     AssertLogRel D:\VirtualBox\VirtualBox-5.2.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(842) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.052000 main     1148: create key 'VirtualBox.Session' -> 5
+00:00:00.052000 main     AssertLogRel D:\VirtualBox\VirtualBox-5.2.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(937) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.052000 main     1148: create key 'VirtualBox.Session'(/Default='Session Class') -> 5
+00:00:00.052000 main     AssertLogRel D:\VirtualBox\VirtualBox-5.2.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(842) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.052000 main     1234: create key '{88888888-c9d2-4f11-a384-53f0cf917214}' -> 5
+00:00:00.052000 main     AssertLogRel D:\VirtualBox\VirtualBox-5.2.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(937) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.052000 main     1234: create key '{88888888-c9d2-4f11-a384-53f0cf917214}'(/Default='Session Class') -> 5
+00:00:00.052000 main     AssertLogRel D:\VirtualBox\VirtualBox-5.2.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(842) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.052000 main     1148: create key 'VirtualBox.VirtualBoxClient.1' -> 5
+00:00:00.052000 main     AssertLogRel D:\VirtualBox\VirtualBox-5.2.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(937) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.052000 main     1148: create key 'VirtualBox.VirtualBoxClient.1'(/Default='VirtualBoxClient Class') -> 5
+00:00:00.052000 main     AssertLogRel D:\VirtualBox\VirtualBox-5.2.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(842) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.052000 main     1148: create key 'VirtualBox.VirtualBoxClient' -> 5
+00:00:00.052000 main     AssertLogRel D:\VirtualBox\VirtualBox-5.2.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(937) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.052000 main     1148: create key 'VirtualBox.VirtualBoxClient'(/Default='VirtualBoxClient Class') -> 5
+00:00:00.052000 main     AssertLogRel D:\VirtualBox\VirtualBox-5.2.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(842) long __cdecl vbpsCreateRegKeyA(struct VBPSREGSTATE *,struct HKEY__ *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.052000 main     1234: create key '{88888888-26c0-4fe1-bf6f-67f633265bba}' -> 5
+00:00:00.052000 main     AssertLogRel D:\VirtualBox\VirtualBox-5.2.36\src\VBox\Main\src-all\win\VBoxProxyStub.c(937) long __cdecl vbpsCreateRegKeyWithDefaultValueAAEx(struct VBPSREGSTATE *,struct HKEY__ *,const char *,const char *,struct HKEY__ **,unsigned int): VBPS_LOGREL_NO_ASSERT(rc == ERROR_ACCESS_DENIED)
+00:00:00.052000 main     1234: create key '{88888888-26c0-4fe1-bf6f-67f633265bba}'(/Default='VirtualBoxClient Class') -> 5
+00:00:00.054000          VirtualBox: object creation starts
+00:00:00.055000          Home directory: 'C:\Users\Park Hyung-guen\.BigNox'
+00:00:00.055000          Installed Drivers:
+00:00:00.063000          Loading settings file "C:\Users\Park Hyung-guen\.BigNox\BigNoxVM.xml" with version "1.12-windows"
+00:00:00.070000          USBLibInit: USB Service not found
+00:00:00.077000          netIfGetBoundAdapters: could not find either 'oracle_VBoxNetLwf' or 'sun_VBoxNetFlt' components (0x1)
+00:00:00.137000          HostDnsMonitor::updateInfo
+00:00:00.137000          HostDnsMonitor: old information
+00:00:00.137000            no server entries
+00:00:00.137000            no domain set
+00:00:00.138000            no search string entries
+00:00:00.138000          HostDnsMonitor: new information
+00:00:00.138000            server 1: 168.126.63.1
+00:00:00.138000            server 2: 168.126.63.2
+00:00:00.138000            no domain set
+00:00:00.138000            no search string entries
+00:00:00.138000          VD: VDInit finished with VINF_SUCCESS
+00:00:00.139000          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={88888888-495e-5a36-8890-29999b5f030c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.140000          Loading settings file "D:\Program Files\Nox\bin\data\base5\base5.vbox" with version "1.15-windows"
+00:00:00.145000          Loading settings file "D:\Program Files\Nox\bin\BignoxVMS\nox\nox.vbox" with version "1.15-windows"
+00:00:00.146000          VirtualBox: object created
+00:00:00.576000          Saving settings file "D:\Program Files\Nox\bin\BignoxVMS\nox\nox.vbox" with version "1.15-windows"
+00:00:00.746000          Saving settings file "D:\Program Files\Nox\bin\BignoxVMS\nox\nox.vbox" with version "1.15-windows"
+00:00:00.943000          Saving settings file "D:\Program Files\Nox\bin\BignoxVMS\nox\nox.vbox" with version "1.15-windows"
+00:00:01.124000          Saving settings file "D:\Program Files\Nox\bin\BignoxVMS\nox\nox.vbox" with version "1.15-windows"
+00:00:01.307000          Saving settings file "D:\Program Files\Nox\bin\BignoxVMS\nox\nox.vbox" with version "1.15-windows"
+00:00:01.541000          Saving settings file "D:\Program Files\Nox\bin\BignoxVMS\nox\nox.vbox" with version "1.15-windows"
+00:06:03.131000 Watcher  Saving settings file "D:\Program Files\Nox\bin\BignoxVMS\nox\nox.vbox" with version "1.15-windows"
+00:11:02.895000 dns-monitor HostDnsMonitor::updateInfo
+00:11:02.895000 dns-monitor HostDnsMonitor: unchanged
+00:13:52.611000 main     VirtualBox: object deletion starts
+00:13:52.611000 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={88888888-43e0-e9d0-82e8-ceb307940dda} aComponent={MediumWrap} aText={Medium 'D:\Program Files\Nox\bin\data\base5\Snapshots/{800691fb-6ec3-4671-a5e5-52471b5b7d2d}.vmdk' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:13:52.611000 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={88888888-43e0-e9d0-82e8-ceb307940dda} aComponent={MediumWrap} aText={Medium 'D:\Program Files\Nox\bin\BignoxVMS\nox\Snapshots\{fd28c962-65ce-4065-ad5e-acf2587f11d1}.vmdk' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:13:52.611000 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={88888888-43e0-e9d0-82e8-ceb307940dda} aComponent={MediumWrap} aText={Medium 'D:\Program Files\Nox\bin\data\base5\base5-disk1.vmdk' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:13:52.612000 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={88888888-43e0-e9d0-82e8-ceb307940dda} aComponent={MediumWrap} aText={Medium 'D:\Program Files\Nox\bin\BignoxVMS\nox\nox-disk2.vmdk' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:13:52.614000 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={88888888-f1a1-448a-10c5-e12f5285adad} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:13:52.615000 main     VirtualBox: object deleted
